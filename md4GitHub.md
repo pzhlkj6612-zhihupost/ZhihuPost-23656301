@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/pzhlkj6612/ZhihuPost-23656301/master/pic_zhimg_com/v2-12a27bbf5d319c1f3180729a4992786c.jpg)
 
-转载请注明来源：[https://zhuanlan.zhihu.com/p/23656301](https://zhuanlan.zhihu.com/p/23656301)
+转载请注明来源。
 
 <br/>
 
@@ -8,7 +8,13 @@
 
 部分原内容已于00:02 2017/8/16转移至新文章，新文章包含了更多可能遇到的问题：
 
-[https://zhuanlan.zhihu.com/p/28488426](https://zhuanlan.zhihu.com/p/28488426)
+[https://github.com/pzhlkj6612/ZhihuPost-28488426](https://github.com/pzhlkj6612/ZhihuPost-28488426)
+
+<br/>
+
+本文章也存在于GitHub仓库：
+
+[https://github.com/pzhlkj6612/ZhihuPost-23656301](https://github.com/pzhlkj6612/ZhihuPost-23656301)
 
 <br/>
 
@@ -23,7 +29,7 @@
 
 在新安装的Windows 7 SP1虚拟机上安装Cinema4D R18时出错：
 
-> MAXON-Inst.exe – 无法找到入口
+> MAXON-Inst.exe – 无法找到入口    
 > (X) 无法定位程序输入点 RemoveDllDirectory于动态链接库KERNEL32.dll上。
 
 ![](https://raw.githubusercontent.com/pzhlkj6612/ZhihuPost-23656301/master/pic_zhimg_com/v2-8ebd181febc4464cbfb9a37ceafc3fd2.jpg)
@@ -38,7 +44,7 @@
 
 # 来源
 
-> ...
+> ...    
 > Windows 7, Windows Server 2008 R2, Windows Vista and Windows Server 2008: To call this function in an application, use the GetProcAddress function to retrieve its address from Kernel32.dll. KB2533623 must be installed on the target platform.
 
 [https://msdn.microsoft.com/zh-cn/library/hh310514](https://msdn.microsoft.com/zh-cn/library/hh310514)
@@ -74,4 +80,4 @@
 
 修改于：22:39 2018/01/11
 
-转载请注明来源：https://zhuanlan.zhihu.com/p/23656301
+转载请注明来源。
