@@ -70,7 +70,7 @@
 
 [@司卿](http://www.zhihu.com/people/cd3b49b1a20b771ac5f7d2b2f4a58baa) 指正；
 
-贴吧用户[@cgcgbei](http://tieba.baidu.com/home/main?un=cgcgbei)的回复提示。
+贴吧用户[@cgcgbei](http://tieba.baidu.com/home/main?un=cgcgbei) 的回复提示。
 
 <br/>
 
