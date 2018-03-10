@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/pzhlkj6612/ZhihuPost-31567795/master/pic_zhimg_com/v2-12a27bbf5d319c1f3180729a4992786c.jpg)
+![](https://raw.githubusercontent.com/pzhlkj6612/ZhihuPost-23656301/master/pic_zhimg_com/v2-12a27bbf5d319c1f3180729a4992786c.jpg)
 
 转载请注明来源：[https://zhuanlan.zhihu.com/p/23656301](https://zhuanlan.zhihu.com/p/23656301)
 
@@ -26,7 +26,7 @@
 > MAXON-Inst.exe – 无法找到入口
 > (X) 无法定位程序输入点 RemoveDllDirectory于动态链接库KERNEL32.dll上。
 
-![](https://raw.githubusercontent.com/pzhlkj6612/ZhihuPost-31567795/master/pic_zhimg_com/v2-8ebd181febc4464cbfb9a37ceafc3fd2.jpg)
+![](https://raw.githubusercontent.com/pzhlkj6612/ZhihuPost-23656301/master/pic_zhimg_com/v2-8ebd181febc4464cbfb9a37ceafc3fd2.jpg)
 
 # 解决方法
 
