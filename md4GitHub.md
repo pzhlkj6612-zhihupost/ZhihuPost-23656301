@@ -12,7 +12,7 @@
 
 <br/>
 
-本文章也存在于GitHub仓库：
+本文章也存在于 GitHub 仓库：
 
 [https://github.com/pzhlkj6612/ZhihuPost-23656301](https://github.com/pzhlkj6612/ZhihuPost-23656301)
 
@@ -21,22 +21,22 @@
 注意：
 
 * 本文并不会持续更新；
-* 本文仅适用于Windows用户。
+* 本文仅适用于 Windows 用户。
 
 <br/>
 
 # 现象
 
-在新安装的Windows 7 SP1虚拟机上安装Cinema4D R18时出错：
+在新安装的 Windows 7 SP1 虚拟机上安装 Cinema4D R18 时出错：
 
 > MAXON-Inst.exe – 无法找到入口    
-> (X) 无法定位程序输入点 RemoveDllDirectory于动态链接库KERNEL32.dll上。
+> (X) 无法定位程序输入点 RemoveDllDirectory 于动态链接库 KERNEL32.dll 上。
 
 ![](https://raw.githubusercontent.com/pzhlkj6612/ZhihuPost-23656301/master/pic_zhimg_com/v2-8ebd181febc4464cbfb9a37ceafc3fd2.jpg)
 
 # 解决方法
 
-打上对应操作系统版本的KB2533623：[https://support.microsoft.com/zh-cn/help/2533623](https://support.microsoft.com/zh-cn/help/2533623)
+打上对应操作系统版本的 KB2533623：[https://support.microsoft.com/zh-cn/help/2533623](https://support.microsoft.com/zh-cn/help/2533623)
 
 补丁安装结束后建议立即保存所有打开的工作，重新启动计算机以使补丁生效。
 
@@ -53,14 +53,14 @@
 
 # 其他
 
-* 来自于IHDT公众号的推送：[http://mp.weixin.qq.com/s/bSdzm71yC6pGeyOdIioqsw](http://mp.weixin.qq.com/s/bSdzm71yC6pGeyOdIioqsw)
+* 来自于 IHDT 公众号的推送：[http://mp.weixin.qq.com/s/bSdzm71yC6pGeyOdIioqsw](http://mp.weixin.qq.com/s/bSdzm71yC6pGeyOdIioqsw)
 * 本文早期版本内容（作者主动投稿）：[http://www.c4d.cn/news-73-1.html](http://www.c4d.cn/news-73-1.html)
 * 本文内容的探究过程：[http://tieba.baidu.com/p/4860468715](http://tieba.baidu.com/p/4860468715)
 * 被转载的本文内容的探究过程（作者主动投稿）：[http://www.c4d.cn/news-72-1.html](http://www.c4d.cn/news-72-1.html)
 
 <br/>
 
-**强烈建议你使用当前最新版本的CINEMA 4D以及最新版本的正式版操作系统；**
+**强烈建议你使用当前最新版本的 CINEMA 4D 以及最新版本的正式版操作系统；**
 
 **不懂再问。**
 
@@ -70,7 +70,7 @@
 
 [@司卿](http://www.zhihu.com/people/cd3b49b1a20b771ac5f7d2b2f4a58baa) 指正；
 
-贴吧用户[@cgcgbei](http://tieba.baidu.com/home/main?un=cgcgbei) 的回复提示。
+贴吧用户 [@cgcgbei](http://tieba.baidu.com/home/main?un=cgcgbei) 的回复提示。
 
 <br/>
 
@@ -80,6 +80,6 @@
 
 发布于：17:57 2016/11/14
 
-修改于：14:38 2018/03/10
+修改于：23:08 2018/03/10
 
 转载请注明来源。
