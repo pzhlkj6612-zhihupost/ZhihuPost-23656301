@@ -34,6 +34,8 @@
 
 ![](https://raw.githubusercontent.com/pzhlkj6612/ZhihuPost-23656301/master/pic_zhimg_com/v2-8ebd181febc4464cbfb9a37ceafc3fd2.jpg)
 
+<br/>
+
 # 解决方法
 
 打上对应操作系统版本的 KB2533623：[https://support.microsoft.com/zh-cn/help/2533623](https://support.microsoft.com/zh-cn/help/2533623)
@@ -60,9 +62,7 @@
 
 <br/>
 
-**强烈建议你使用当前最新版本的 CINEMA 4D 以及最新版本的正式版操作系统；**
-
-**不懂再问。**
+**强烈建议你使用当前最新版本的 CINEMA 4D 以及最新版本的正式版操作系统。**
 
 ----
 
@@ -80,6 +80,6 @@
 
 发布于：17:57 2016/11/14
 
-修改于：23:08 2018/03/10
+修改于：23:12 2018/03/10
 
 转载请注明来源。
