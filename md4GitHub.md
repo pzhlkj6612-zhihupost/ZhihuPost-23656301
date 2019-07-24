@@ -8,13 +8,13 @@
 
 部分原内容已于 00:02 2017/8/16 转移至新文章，新文章包含了更多可能遇到的问题：
 
-[https://github.com/pzhlkj6612/ZhihuPost-28488426](https://github.com/pzhlkj6612/ZhihuPost-28488426)
+[https://github.com/pzhlkj6612-zhihupost/ZhihuPost-28488426](https://github.com/pzhlkj6612-zhihupost/ZhihuPost-28488426)
 
 <br/>
 
 本文章也存在于 GitHub 仓库：
 
-[https://github.com/pzhlkj6612/ZhihuPost-23656301](https://github.com/pzhlkj6612/ZhihuPost-23656301)
+[https://github.com/pzhlkj6612-zhihupost/ZhihuPost-23656301](https://github.com/pzhlkj6612-zhihupost/ZhihuPost-23656301)
 
 <br/>
 
